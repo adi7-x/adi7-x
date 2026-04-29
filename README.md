@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://github.com/oakoudad/badge42">
-    <img src="https://badge.mediaplus.ma/darkblue/adbourji" alt="adbourji's 42 stats" />
+    <img src="https://badge.mediaplus.ma/binary/adbourji" alt="adbourji's 42 stats" />
   </a>
 </p>
 
