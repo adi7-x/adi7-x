@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Adi Lien
+### Software Engineer & 42 Student
 
-<!--
-**adi7-x/adi7-x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate developer focused on building scalable web applications and efficient system tools. Currently, I'm working on logistics platforms and campus solutions.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+- Fleetmark: A comprehensive logistics and fleet management platform built with Python/Django and React.
+- - UM6P Flow: A campus super-app designed for students and faculty.
+ 
+  - ## Tech Stack
+  - - Languages: Python, C, C++, JavaScript, Bash.
+    - - Frameworks: Django, React, Node.js.
+      - - Tools: Docker, PostgreSQL, Git, Linux.
+       
+        - ## GitHub Stats
+        - ![Adi's GitHub stats](https://github-readme-stats.vercel.app/api?username=adi7-x&show_icons=true&theme=radical)
+        - 
