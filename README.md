@@ -8,6 +8,12 @@
   <img src="https://komarev.com/ghpvc/?username=adi7-x&style=for-the-badge&color=4FC3F7&label=PROFILE+VIEWS" alt="Profile views"/>
 </p>
 
+<p align="center">
+  <a href="https://github.com/oakoudad/badge42">
+    <img src="https://badge.mediaplus.ma/darkblue/adbourji" alt="adbourji's 42 stats" />
+  </a>
+</p>
+
 ---
 
 ### 🧑‍💻 About Me
