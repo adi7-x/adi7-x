@@ -108,16 +108,16 @@ I build full-stack web applications from scratch — from database schema design
 <tr>
 <td width="50%">
 
-### 🚌 [Fleetmark](https://github.com/adi7-x/fleetmark)
+### 🚌 [Fleetmark](https://github.com/adi7-x/FLEETMARK-Transcendence)
 **Smart Transportation Platform** — Production-ready shuttle reservation system for 1337 School.
 
 `Django` `React` `TypeScript` `PostgreSQL` `Docker`
 
-- 🔐 42 OAuth + JWT + Role-based access
-- 🌍 Multi-language (AR/FR/EN) with RTL
-- 📊 Admin dashboard for fleet analytics
-- 🐳 Fully containerized (Docker Compose)
-- 👥 Team of 5 · **42 ft_transcendence** · **125/100**
+- 🔐 42 OAuth + JWT + Role-based access (HashiCorp Vault)
+- 🌍 Multi-language (AR/FR/EN) with full RTL support
+- 📊 Admin dashboard with analytics (Recharts)
+- 🐳 WAF (ModSecurity) + ELK Stack monitoring
+- 👥 11 Docker containers · **42 ft_transcendence** · **125/100**
 
 </td>
 <td width="50%">
