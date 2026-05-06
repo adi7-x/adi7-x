@@ -1,5 +1,5 @@
-<p align="center"><img src="assets/banner.png" alt="Adil Bourji - Software Engineer" width="100%" /></
-<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=EA7125&center=true&vCenter=true&width=600&lines=1337+Student+%7C+42+Network;Low-Level+Enthusiast;Problem+Solver" alt="Typing SVG" /></
+<p align="center"><img src="assets/banner.png" alt="Adil Bourji - Software Engineer" width="100%" />
+<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=EA7125&center=true&vCenter=true&width=600&lines=1337+Student+%7C+42+Network;Low-Level+Enthusiast;Problem+Solver" alt="Typing SVG" /
 <p align="center"><strong>Engineering high-performance solutions through peer-to-peer immersion</st
 
 <p align="center"><img src="https://img.shields.io/badge/1337-School-EA7125?style=for-the-badge&logo=42&logoColor=white" alt="1337 Badge" /><img src="https://img.shields.io/badge/42-Network-003A63?style=for-the-badge&logo=42&logoColor=white" alt="42 Badge" /></p>p>
